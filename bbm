@@ -1,0 +1,118 @@
+  component com.bbm
+Main looper: 
+ Looper{41ad4c08}
+ mRun=true
+ mThread=Thread[main,5,main]
+ mQueue=android.os.MessageQueue@41ad4c28
+   Message 0: { what=121 when=-35s965ms obj=BindServiceData{token=android.os.BinderProxy@41d6e9f8 intent=Intent { cmp=com.bbm/.BbmService (has extras) }} }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 1: { what=132 when=-32s902ms }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 2: { what=0 when=-2m53s568ms }
+     msg.callback : null
+     msg.target : null
+   Message 3: { what=0 when=-31s751ms }
+     msg.callback : android.view.Choreographer$FrameDisplayEventReceiver@41dbe2b0
+     msg.target : Handler (android.view.Choreographer$FrameHandler) {41dbe1e8}
+     msg.target.mCallback : null
+   Message 4: { what=20 when=-31s275ms }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 5: { what=101 when=-30s289ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 6: { what=1 when=-29s377ms obj=android.os.AsyncTask$AsyncTaskResult@41dce810 }
+     msg.callback : null
+     msg.target : Handler (android.os.AsyncTask$InternalHandler) {41ad7f78}
+     msg.target.mCallback : null
+   Message 7: { what=103 when=-27s325ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 8: { what=137 when=-27s324ms arg1=1 obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 9: { what=20 when=-24s477ms arg1=1 }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 10: { what=20 when=-24s370ms arg1=1 }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 11: { what=137 when=-24s370ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 12: { what=107 when=-24s340ms arg1=1 obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 13: { what=20 when=-8s383ms }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 14: { what=101 when=-8s308ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 15: { what=103 when=-7s804ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 16: { what=137 when=-7s804ms arg1=1 obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 17: { what=20 when=-6s676ms arg1=1 }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 18: { what=20 when=-6s557ms arg1=1 }
+     msg.callback : null
+     msg.target : Handler (android.view.ViewRootImpl$ViewRootHandler) {41dbd2a0}
+     msg.target.mCallback : null
+   Message 19: { what=137 when=-6s554ms obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 20: { what=107 when=-5s957ms arg1=1 obj=android.os.BinderProxy@41ad7398 }
+     msg.callback : null
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 21: { what=0 when=-2s862ms }
+     msg.callback : com.rim.bbm.BbmPlatformService$1@41ce9380
+     msg.target : Handler (android.os.Handler) {41caee30}
+     msg.target.mCallback : null
+   Message 22: { what=32 when=-1s725ms obj= }
+     msg.callback : null
+     msg.target : Handler (android.telephony.PhoneStateListener$2) {41dd80f8}
+     msg.target.mCallback : null
+   Message 23: { what=0 when=-1s612ms }
+     msg.callback : android.app.LoadedApk$ServiceDispatcher$RunConnection@41e19898
+     msg.target : Handler (android.app.ActivityThread$H) {41ad4eb0}
+     msg.target.mCallback : null
+   Message 24: { what=0 when=-701ms }
+     msg.callback : com.bbm.l.n@41dc34c8
+     msg.target : Handler (android.os.Handler) {41dc3488}
+     msg.target.mCallback : null
+   Message 25: { what=0 when=+1s517ms }
+     msg.callback : com.rim.bbm.BbmPlatformService$PlatformWakeLock$1@41cb1900
+     msg.target : Handler (android.os.Handler) {41caee30}
+     msg.target.mCallback : null
+   Message 26: { what=0 when=+1m23s999ms }
+     msg.callback : com.bbm.c.h@41d6c960
+     msg.target : Handler (android.os.Handler) {41d2ce88}
+     msg.target.mCallback : null
+   Message 27: { what=0 when=+1m59s255ms }
+     msg.callback : com.bbm.c.h@41c738b8
+     msg.target : Handler (android.os.Handler) {41d2ce88}
+     msg.target.mCallback : null
+ (Total messages: 28)
